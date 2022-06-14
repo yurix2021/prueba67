@@ -1,2 +1,6 @@
 jugador 1
 jugador 2
+
+jugador yo
+
+jugador tu
